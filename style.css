@@ -1,0 +1,20 @@
+body,
+html {
+  margin: 0;
+}
+
+main {
+  width: 100vw;
+  height: 100vh;
+  background: #E0562F;
+}
+
+p {
+  color: white;
+  margin: 0;
+  padding: 1em;
+}
+
+#popup {
+  background: #7C3CE6;
+}
